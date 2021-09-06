@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    gateway:
+      proxy:
+        headers:
+          Transfer-Encoding: "identity"

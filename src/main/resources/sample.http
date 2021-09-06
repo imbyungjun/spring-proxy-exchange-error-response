@@ -1,0 +1,7 @@
+### 1
+GET http://localhost:8080/api/foo
+// { "key": "value" }
+
+### 2
+GET http://localhost:8080/proxy/api/foo
+// org.apache.http.MalformedChunkCodingException: Bad chunk header: {"key":"value"}
