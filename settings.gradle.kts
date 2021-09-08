@@ -1,1 +1,1 @@
-rootProject.name = "spring-playground"
+rootProject.name = "spring-proxy-exchange-error-response"
